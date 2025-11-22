@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    color: rgb(212, 203, 203);
+}
+h3{
+    text-indent: 15px;
+    font-size: 22px;
+}
+p{
+    text-align: center;
+    text-indent: 30px;
+    margin-left: 15px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ul1 li{
+    display: inline;
+} 
+.telegram{
+    margin-right: 40px;
+    padding: 10px 25px;
+    border: 0;
+    border-radius: 10px;
+}
+.vk{
+    margin-left: 40px;
+    padding: 10px 25px;
+    border:0;
+    border-radius: 10px;
+}
+button{
+     text-decoration: none;
+     color: black;
+     font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.telegram:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.vk:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.telegram:hover a{
+    text-decoration: none;
+    color:rgb(212,203,203);
+}
+.vk:hover a{
+    text-decoration: none;
+    color:rgb(212,203,203);
+}
